@@ -19,7 +19,7 @@ pygments==2.12.0
 pyparsing==3.0.1
 pytz==2021.3
 pyyaml==6.0
-requests==2.26.0
+requests==2.31.0
 resolvelib==0.5.5
 six==1.16.0
 snowballstemmer==2.1.0
